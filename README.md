@@ -1,8 +1,8 @@
 # flutter-snippets
 
 ![Build](https://github.com/blendthink/flutter-snippets/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/18867.svg)](https://plugins.jetbrains.com/plugin/18867)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/18867.svg)](https://plugins.jetbrains.com/plugin/18867)
 
 <!-- Plugin description -->
 A collection of simple Flutter Snippets.
