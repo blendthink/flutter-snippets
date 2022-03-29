@@ -9,5 +9,6 @@
     <extensions defaultExtensionNs="com.intellij">
         <defaultLiveTemplates file="/liveTemplates/FlutterSnippets-General.xml"/>
         <defaultLiveTemplates file="/liveTemplates/FlutterSnippets-Comment.xml"/>
+        <defaultLiveTemplates file="/liveTemplates/FlutterSnippets-Freezed.xml"/>
     </extensions>
 </idea-plugin>
