@@ -2,6 +2,8 @@
   <template name="todo" value="// TODO($USER$): $TODO$" description="adds // TODO" toReformat="false" toShortenFQNames="true">
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
   </template>
 </templateSet>

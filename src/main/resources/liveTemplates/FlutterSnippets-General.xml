@@ -3,6 +3,8 @@
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CASE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
   </template>
 </templateSet>
