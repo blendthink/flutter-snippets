@@ -3,7 +3,7 @@
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="DART_TOPLEVEL" value="true" />
+      <option name="DART" value="true" />
     </context>
   </template>
 </templateSet>
