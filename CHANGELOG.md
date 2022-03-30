@@ -15,6 +15,7 @@
 ### Changed
 - Change plugin id and name
 - Update platformVersion
+- Change plugin icon
 
 ### Removed
 - Delete unused item
