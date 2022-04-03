@@ -1,5 +1,7 @@
 # Flutter Snippets
 
+<img src="src/main/resources/META-INF/pluginIcon.svg" alt="icon" width="120">
+
 ![Build](https://github.com/blendthink/flutter-snippets/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/18867.svg)](https://plugins.jetbrains.com/plugin/18867)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18867.svg)](https://plugins.jetbrains.com/plugin/18867)
