@@ -1,5 +1,5 @@
 <templateSet group="FlutterSnippets-General">
-  <template name="switchcase" value="switch($VAR$) {&#10;  case $CASE$:&#10;    $ACTION$&#10;    break;&#10;  default:&#10;}&#10;  " description="Create switch statement" toReformat="true" toShortenFQNames="true">
+  <template name="switch" value="switch($VAR$) {&#10;  case $CASE$:&#10;    $ACTION$&#10;    break;&#10;  default:&#10;}&#10;  " description="Create switch statement" toReformat="true" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CASE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ACTION" expression="" defaultValue="" alwaysStopAt="true" />
