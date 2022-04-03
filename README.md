@@ -1,11 +1,13 @@
-# flutter-snippets
+# Flutter Snippets
 
 ![Build](https://github.com/blendthink/flutter-snippets/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/18867.svg)](https://plugins.jetbrains.com/plugin/18867)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/18867.svg)](https://plugins.jetbrains.com/plugin/18867)
 
 <!-- Plugin description -->
-A collection of simple Flutter Snippets.
+A collection of simple code snippets for Flutter.
+
+For detailed usage, please click [here](https://github.com/blendthink/flutter-snippets/blob/main/docs/DESCRIPTION.md).
 <!-- Plugin description end -->
 
 ## Installation

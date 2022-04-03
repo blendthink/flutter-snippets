@@ -28,7 +28,7 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="freezed-part-g" value="part '$FILE_NAME$.g.dart';" description="Create json_serializabe part" toReformat="false" toShortenFQNames="true">
+  <template name="freezed-part-g" value="part '$FILE_NAME$.g.dart';" description="Create json_serializable part" toReformat="false" toShortenFQNames="true">
     <variable name="FILE_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_TOPLEVEL" value="true" />
