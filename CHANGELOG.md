@@ -5,6 +5,18 @@
 ## [Unreleased]
 
 ## [0.0.3]
+## [0.0.3]
+### Added
+- Create demonstration GIF
+
+### Changed
+- Update plugin description
+- Change shortcut name to "switch"
+
+### Fixed
+- Fix typo (json_serializable)
+
+## [0.0.3]
 ### Added
 - Create demonstration GIF
 
